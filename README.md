@@ -8,6 +8,7 @@ This project applies a Bag of Visual Words (BoVW) approach for image similarity 
 3. Convert each image into a histogram of visual words, optionally applying TF-IDF weighting.  
 4. Compute cosine similarity between the query and database images, then display a ranked list.  
 5. Provide visualizations showing the top results and their feature matches with the query image.
+6. Only run bag_vision.py is OK!!
 
 By running the script, you can see the console output showing the most similar images and a pop-up window illustrating how the query image’s features match those in the returned results.
 
