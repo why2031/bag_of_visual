@@ -29,6 +29,7 @@ Rank 3 | Similarity: 0.7850 | Path: database_images\001_0077.jpg
 Rank 4 | Similarity: 0.7756 | Path: database_images\001_0021.jpg
 Rank 5 | Similarity: 0.7679 | Path: database_images\014_0019.jpg
 
+
 <div align="center"> <img src="https://img.picui.cn/free/2025/03/19/67dae7eef18ef.png" alt="Feature matching visualization" width="600"/> </div>
 <br/> <div align="center"> <img src="https://img.picui.cn/free/2025/03/19/67dae7ee57924.png" alt="Query and retrieved results" width="600"/> </div> <br/>
 
