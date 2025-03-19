@@ -11,14 +11,6 @@ This project applies a Bag of Visual Words (BoVW) approach for image similarity 
 
 By running the script, you can see the console output showing the most similar images and a pop-up window illustrating how the query image’s features match those in the returned results.
 
-<br/>
-
-<div align="center">
-  <img src="https://img.picui.cn/free/2025/03/19/67dae7ee57924.png" alt="Query and retrieved results" width="600"/>
-</div>
-
-<br/>
-
 **Result:**
 ```
 Number of images in the database: 95
@@ -38,3 +30,11 @@ Rank 5 | Similarity: 0.7679 | Path: database_images\014_0019.jpg
 <div align="center">
   <img src="https://img.picui.cn/free/2025/03/19/67dae7eef18ef.png" alt="Feature matching visualization" width="600"/>
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.picui.cn/free/2025/03/19/67dae7ee57924.png" alt="Query and retrieved results" width="600"/>
+</div>
+
+<br/>
